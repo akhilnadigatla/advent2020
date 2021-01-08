@@ -1,1 +1,1 @@
-### Solutions for Advent for Code 2020
+### Solutions for Advent of Code 2020
